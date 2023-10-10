@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-dists-laplace-logcdf",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Laplace distribution logarithm of cumulative distribution function (CDF).",
   "license": "Apache-2.0",
   "author": {
@@ -40,7 +40,7 @@
     "@stdlib/constants-float64-ln-half": "^0.1.1",
     "@stdlib/math-base-assert-is-nan": "^0.1.1",
     "@stdlib/math-base-special-expm1": "^0.1.0",
-    "@stdlib/math-base-special-log1p": "^0.1.0",
+    "@stdlib/math-base-special-log1p": "^0.1.1",
     "@stdlib/utils-constant-function": "^0.1.1",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.1.1"
   },
