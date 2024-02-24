@@ -65,13 +65,13 @@ where `mu` is the location parameter and `b > 0` is the scale parameter.
 ## Usage
 
 ```javascript
-import logcdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-logcdf@deno/mod.js';
+import logcdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-logcdf@v0.2.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-logcdf@deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-logcdf@v0.2.1-deno/mod.js';
 ```
 
 #### logcdf( x, mu, b )
@@ -145,7 +145,7 @@ y = mylogcdf( 4.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import logcdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-logcdf@deno/mod.js';
+import logcdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-logcdf@v0.2.1-deno/mod.js';
 
 var mu;
 var b;
