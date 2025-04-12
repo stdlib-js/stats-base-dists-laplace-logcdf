@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-06)
+## Unreleased (2025-04-12)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`a9c5bd5`](https://github.com/stdlib-js/stdlib/commit/a9c5bd530e3080d8fd55586b8b05c4c3a31c60b7) - **chore:** clean-up _(by Athan Reines)_
 -   [`09c74b0`](https://github.com/stdlib-js/stdlib/commit/09c74b0526129f32667ef3101c9ccd91acaf924b) - **feat:** add C implementation for `stats/base/dists/laplace/logcdf` [(#4422)](https://github.com/stdlib-js/stdlib/pull/4422) _(by Dhruv Arvind Singh, Philipp Burckhardt, stdlib-bot)_
 -   [`e5238bb`](https://github.com/stdlib-js/stdlib/commit/e5238bb96b7138d346ea0db8b535aec64c8a856c) - **bench:** refactor random number generation in `stats/base/dists/laplace` [(#5270)](https://github.com/stdlib-js/stdlib/pull/5270) _(by GK Bishnoi)_
 
@@ -47,8 +48,9 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Dhruv Arvind Singh
 -   GK Bishnoi
 -   Philipp Burckhardt
